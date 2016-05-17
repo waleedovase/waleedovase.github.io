@@ -3,22 +3,22 @@
 # # # # # # # #
 
 # Basic
-name:               "Kiko"
+name:               "Waleed Ovase"
 
 # URL
-baseurl:            "/Kiko"
-#baseurl:            "" #For Root Domain
+baseurl:            "/"
+#baseurl:            "waleedovase.com" #For Root Domain
 permalink:          /:year/:month/:day/:title.html
 
 # Markdown
-markdown:           rdiscount
+markdown:           kmarkdown
 
 # Navigation
 nav:
   - name:           "About"
     href:           "//gfjaru.github.io/Kiko/about"
   - name:           "Download"
-    href:           "//github.com/gfjaru/Kiko/releases"
+    href:           ""
 
 # Sass
 sass:
