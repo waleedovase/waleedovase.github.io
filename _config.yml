@@ -4,6 +4,7 @@
 
 # Basic
 name:               "Waleed Ovase"
+theme: kiko
 
 # URL
 baseurl:            "/"
