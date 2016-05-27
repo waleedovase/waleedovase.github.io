@@ -1,6 +1,6 @@
 {
   "nodes": [
-    {
+   node.star = {
       "id": "n0",
       "label": "STATUS: ALERT ALL CREWS ACTION STATIONS",
       "x": 0,
