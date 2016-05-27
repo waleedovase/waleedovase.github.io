@@ -2,8 +2,8 @@
 <head>
 <style type="text/css">
   #container {
-    max-width: 400px;
-    height: 400px;
+    max-width: 1000px;
+    height: 1000px;
     margin: auto;
   }
 </style>
@@ -15,6 +15,8 @@
 <script src="http://waleedovase.github.io/sigma.renderers.customShapes.js"></script>
 <script src="http://waleedovase.github.io/shape-library.js"></script>
 <script>
+sigma.utils.pkg('sigma.canvas.nodes');
+
   sigma.parsers.json('waleedovase.github.io/example.json', {
     container: 'container',
     settings: {
