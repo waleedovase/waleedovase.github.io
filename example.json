@@ -27,6 +27,7 @@
       "id": "e0",
       "source": "n0",
       "target": "n1"
+      "type": "arrow"
     },
     {
       "id": "e1",
