@@ -3,16 +3,22 @@
     {
       "id": "n0",
       "label": "STATUS: ALERT ALL CREWS ACTION STATIONS",
+      x: 0,
+      y: 0,
       "size": 1
     },
     {
       "id": "n1",
       "label": "UNKNOWN HULL BREACH SECTIONS 8, 10, 18, 25",
+      x: 1,
+      y: 1,
       "size": 1
     },
     {
       "id": "n2",
       "label": "CASAULTY NUMBERS COMING IN",
+      x: 2,
+      y: 2,
       "size": 1
     }
   ],
