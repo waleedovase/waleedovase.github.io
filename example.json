@@ -6,7 +6,6 @@
       "x": 0,
       "y": 0,
       "size": 1,
-      node.type='square'
     },
     {
       "id": "n1",
