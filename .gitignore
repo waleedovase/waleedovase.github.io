@@ -1,6 +1,11 @@
+<<<<<<< HEAD
 node_modules/*
 build/*
 *.tgz
 *.log
 *.swp
 .DS_Store
+=======
+_site
+.sass-cache
+>>>>>>> 6e58109ea5d99e710069c1f4cd3d3e6258505e0c
