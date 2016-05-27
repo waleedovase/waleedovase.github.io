@@ -2,23 +2,17 @@
   "nodes": [
     {
       "id": "n0",
-      "label": "A node",
-      "x": 0,
-      "y": 0,
-      "size": 3
+      "label": "STATUS: ALERT ALL CREWS ACTION STATIONS",
+      "size": 1
     },
     {
       "id": "n1",
-      "label": "Another node",
-      "x": 3,
-      "y": 1,
-      "size": 2
+      "label": "UNKNOWN HULL BREACH SECTIONS 8, 10, 18, 25",
+      "size": 1
     },
     {
       "id": "n2",
-      "label": "And a last one",
-      "x": 1,
-      "y": 3,
+      "label": "CASAULTY NUMBERS COMING IN",
       "size": 1
     }
   ],
@@ -33,10 +27,6 @@
       "source": "n1",
       "target": "n2"
     },
-    {
-      "id": "e2",
-      "source": "n2",
-      "target": "n0"
-    }
-  ]
+    ]
 }
+
