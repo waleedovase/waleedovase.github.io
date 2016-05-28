@@ -47,7 +47,7 @@ $('#cy').cytoscape({
   
   elements: {
     nodes: [
-      { data: { id: '1', name: 'STATUS: Alert All Crews, Action Stations!', weight: 80, faveColor: '#6FB1FC', faveShape: 'octagon' } },
+      { data: { id: '1', name: 'STATUS: Alert All Crews, Action Stations!', weight: 80, faveColor: '#1b0100', faveShape: 'octagon' } },
       { data: { id: '2', name: 'STATUS: Unknown Hull Breach Sections 7, 10, 18, 25', weight: 80, faveColor: '#6FB1FC', faveShape: 'octagon' } },
       { data: { id: '3', name: 'STATUS: Casualty Numbers Coming In', weight: 80, faveColor: '#6FB1FC', faveShape: 'octagon' } },
       { data: { id: '4', name: 'STATUS: 14 Bridge Crew, 30 Engineering, 480 Others', weight: 80, faveColor: '#6FB1FC', faveShape: 'octagon' } }
