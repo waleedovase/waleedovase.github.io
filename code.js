@@ -62,7 +62,7 @@ $('#cy').cytoscape({
       { data: { id: '13', name: 'I can...check that. But, the computers. Most everything is blown or offline! Cant seem to get a response from engineering.', weight: 80, faveColor: '#e30915', faveShape: 'triangle'} },
       { data: { id: '14', name: 'Yes, from xenobiology. We need to make sure shes still alive.', weight: 80, faveColor: '#6FB1FC', faveShape: 'octagon' } },
       { data: { id: '15', name: 'Ill stay on the bridge, you should head towards xenobiology.', weight: 80, faveColor: '#e30915', faveShape: 'triangle' } },
-      { data: { id: '16', name: 'Where are you now?', weight: 80, faveColor: '#e301915', faveShape: 'triangle' } }
+      { data: { id: '16', name: 'Where are you now?', weight: 80, faveColor: '#e30915', faveShape: 'triangle' } }
     //  { data: { id: '17', name: 'Im on CC Deck, I just exited my quarters. Gimme your input. Where should I go first?', weight: 80, faveColor: '#6FB1FC', faveShape: 'octagon' } }
     //  { data: { id: '18', name: 'Head towards xenobiology. But youre going to have to tell me what is so important in there!', weight: 80, faveColor: '#e30915', faveShape: 'triangle' } },
     // { data: { id: '19', name: 'Whats so important in xenobiology?', weight: 80, faveColor: '#e30915', faveShape: 'triangle' } }
