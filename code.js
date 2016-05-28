@@ -47,15 +47,15 @@ $('#cy').cytoscape({
   
   elements: {
     nodes: [
-      { data: { id: '1', name: 'STATUS: Alert All Crews, Action Stations!', weight: 90, faveColor: '#1b0100', faveShape: 'octagon' } },
-      { data: { id: '2', name: 'STATUS: Unknown Hull Breach Sections 7, 10, 18, 25', weight: 90, faveColor: '#6FB1FC', faveShape: 'octagon' } },
-      { data: { id: '3', name: 'STATUS: Casualty Numbers Coming In', weight: 90, faveColor: '#6FB1FC', faveShape: 'octagon' } },
-      { data: { id: '4', name: 'STATUS: 14 Bridge Crew, 30 Engineering, 480 Others', weight: 90, faveColor: '#6FB1FC', faveShape: 'octagon' } }
+      { data: { id: '1', name: 'STATUS: Alert All Crews, Action Stations!', weight: 80, faveColor: '#1b0100', faveShape: 'octagon' } },
+      { data: { id: '2', name: 'STATUS: Unknown Hull Breach Sections 7, 10, 18, 25', weight: 80, faveColor: '#6FB1FC', faveShape: 'octagon' } },
+      { data: { id: '3', name: 'STATUS: Casualty Numbers Coming In', weight: 80, faveColor: '#6FB1FC', faveShape: 'octagon' } },
+      { data: { id: '4', name: 'STATUS: 14 Bridge Crew, 30 Engineering, 480 Others', weight: 80, faveColor: '#6FB1FC', faveShape: 'octagon' } }
     ],
     edges: [
-      { data: { source: '1', target: '2', faveColor: '#6FB1FC', strength: 75 } },
-      { data: { source: '2', target: '3', faveColor: '#6FB1FC', strength: 75 } },
-      { data: { source: '3', target: '4', faveColor: '#6FB1FC', strength: 75 } }
+      { data: { source: '1', target: '2', faveColor: '#6FB1FC', strength: 85 } },
+      { data: { source: '2', target: '3', faveColor: '#6FB1FC', strength: 85 } },
+      { data: { source: '3', target: '4', faveColor: '#6FB1FC', strength: 85 } }
      
       //{ data: { source: 'e', target: 'j', faveColor: '#EDA1ED', strength: 95 } },
       //{ data: { source: 'e', target: 'k', faveColor: '#EDA1ED', strength: 60 }, classes: 'questionable' },
