@@ -53,7 +53,7 @@ $('#cy').cytoscape({
       { data: { id: '4', name: 'STATUS: 14 Bridge Crew, 30 Engineering, 480 Others', weight: 80, faveColor: '#6FB1FC', faveShape: 'octagon' } },
       { data: { id: '5', name: 'Contact Captain Horatio', weight 80, faveColor: '#e30915', faveShape: 'triangle'} },
       { data: { id: '6', name: 'Horatio here', weight 80, faveColor: '6FB1FC', faveShape: 'octagon' } },
-      { data: { id: '7', name: 'This is the bridge, were going to need you to get up here', weight 80, faveColor: '#e30195', faveShape: 'traingle'} },
+      { data: { id: '7', name: 'This is the bridge, were going to need you to get up here', weight 80, faveColor: '#e30195', faveShape: 'triangle'} },
       { data: { id: '8', name: 'Captain, weve lost Admiral Jenkins, youre the highest ranking officer now', weight 80, faveColor: '#e30195', faveShape: 'triangle'} }
     ],
     edges: [
