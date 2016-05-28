@@ -53,9 +53,9 @@ $('#cy').cytoscape({
       { data: { id: '4', name: 'STATUS: 14 Bridge Crew, 30 Engineering, 480 Others', weight: 80, faveColor: '#6FB1FC', faveShape: 'octagon' } }
     ],
     edges: [
-      { data: { source: '1', target: '2', faveColor: '#6FB1FC', strength: 85 } },
-      { data: { source: '2', target: '3', faveColor: '#6FB1FC', strength: 85 } },
-      { data: { source: '3', target: '4', faveColor: '#6FB1FC', strength: 85 } }
+      { data: { source: '1', target: '2', faveColor: '#6FB1FC', strength: 95 } },
+      { data: { source: '2', target: '3', faveColor: '#6FB1FC', strength: 95 } },
+      { data: { source: '3', target: '4', faveColor: '#6FB1FC', strength: 95 } }
      
       //{ data: { source: 'e', target: 'j', faveColor: '#EDA1ED', strength: 95 } },
       //{ data: { source: 'e', target: 'k', faveColor: '#EDA1ED', strength: 60 }, classes: 'questionable' },
