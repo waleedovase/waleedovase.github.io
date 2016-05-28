@@ -2,7 +2,7 @@ $(function(){ // on dom ready
 
 $('#cy').cytoscape({
   layout: {
-    name: 'cose',
+    name: 'null',
     padding: 10
   },
   
