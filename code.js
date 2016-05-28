@@ -58,10 +58,10 @@ $('#cy').cytoscape({
       { data: { id: '9', name: 'Im the highest ranking? Jeezuz, was everyone in the dining room?', weight: 80, faveColor: '#6FB1FC', faveShape: 'octagon' } },
       { data: { id: '10', name: 'Yes sir, you are.  Were going to need you to come up to the bridge.', weight: 80, faveColor: '#e30915', faveShape: 'triangle' } },
       { data: { id: '11', name: 'Is Dr. Cholodenko still alive?', weight: 80, faveColor: '#6FB1FC', faveShape: 'octagon' } },
-      { data: { id: '12', name: 'From Xenobiology?', weight: 80, faveColor: '#e30915', faveShape: 'triangle' } }
-    //  { data: { id: '13', name: 'I can...check that. But, the computers. Most everything is blown or offline! Cant seem to get a response from engineering.', weight: 80, faveColor: '#e30915', faveShape: 'triangle'} },
-    //  { data: { id: '14', name: 'Yes, from xenobiology. We need to make sure shes still alive.', weight: 80, faveColor: '#6FB1FC', faveShape: 'octagon' } },
-    //  { data: { id: '15', name: 'Ill stay on the bridge, you should head towards xenobiology.', weight: 80, faveColor: '#e30915', faveShape: 'triangle' } },
+      { data: { id: '12', name: 'From Xenobiology?', weight: 80, faveColor: '#e30915', faveShape: 'triangle' } },
+      { data: { id: '13', name: 'I can...check that. But, the computers. Most everything is blown or offline! Cant seem to get a response from engineering.', weight: 80, faveColor: '#e30915', faveShape: 'triangle'} },
+      { data: { id: '14', name: 'Yes, from xenobiology. We need to make sure shes still alive.', weight: 80, faveColor: '#6FB1FC', faveShape: 'octagon' } },
+      { data: { id: '15', name: 'Ill stay on the bridge, you should head towards xenobiology.', weight: 80, faveColor: '#e30915', faveShape: 'triangle' } }
     //  { data: { id: '16', name: 'Where are you now?', weight: 80, faveColor: '#e301915', faveShape: 'triangle' } },
     //  { data: { id: '17', name: 'Im on CC Deck, I just exited my quarters. Gimme your input. Where should I go first?', weight: 80, faveColor: '#6FB1FC', faveShape: 'octagon' } },
     //  { data: { id: '18', name: 'Head towards xenobiology. But youre going to have to tell me what is so important in there!', weight: 80, faveColor: '#e30915', faveShape: 'triangle' } },
