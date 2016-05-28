@@ -63,7 +63,7 @@ $('#cy').cytoscape({
       { data: { source: '4', target: '5', faveColor: '#6FB1FC', strength: 95 } },
       { data: { source: '5', target: '6', faveColor: '#e30915', strength: 95 } },
       { data: { source: '6', target: '7', faveColor: '#6FB1FC', strength: 95 } },
-      { data: { source: '6', target: '8', faveColor: '#6FB1FC', strength: 95 } } 
+      { data: { source: '6', target: '8', faveColor: '#6FB1FC', strength: 95 } }
      
       //{ data: { source: 'e', target: 'j', faveColor: '#EDA1ED', strength: 95 } },
       //{ data: { source: 'e', target: 'k', faveColor: '#EDA1ED', strength: 60 }, classes: 'questionable' },
