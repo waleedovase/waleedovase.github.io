@@ -51,10 +51,10 @@ $('#cy').cytoscape({
       { data: { id: '2', name: 'STATUS: Unknown Hull Breach Sections 7, 10, 18, 25', weight: 80, faveColor: '#6FB1FC', faveShape: 'octagon' } },
       { data: { id: '3', name: 'STATUS: Casualty Numbers Coming In', weight: 80, faveColor: '#6FB1FC', faveShape: 'octagon' } },
       { data: { id: '4', name: 'STATUS: 14 Bridge Crew, 30 Engineering, 480 Others', weight: 80, faveColor: '#6FB1FC', faveShape: 'octagon' } },
-      { data: { id: '5', name: 'Contact Captain Horatio', weight 80, favecolor: '#e30915', faveshape: 'triangle'} },
-      { data: { id: '6', name: 'Horatio here', weight 80, favecolor: '6FB1FC', faveShape: 'octagon' } },
-      { data: { id: '7', name: 'This is the bridge, were going to need you to get up here', weight 80, favecolor: '#e30195', faveshape: 'traingle'} },
-      { data: { id: '8', name: 'Captain, weve lost Admiral Jenkins, youre the highest ranking officer now', weight 80, favecolor: '#e30195', faveshape: 'triangle'} }
+      { data: { id: '5', name: 'Contact Captain Horatio', weight 80, faveColor: '#e30915', faveShape: 'triangle'} },
+      { data: { id: '6', name: 'Horatio here', weight 80, faveColor: '6FB1FC', faveShape: 'octagon' } },
+      { data: { id: '7', name: 'This is the bridge, were going to need you to get up here', weight 80, faveColor: '#e30195', faveShape: 'traingle'} },
+      { data: { id: '8', name: 'Captain, weve lost Admiral Jenkins, youre the highest ranking officer now', weight 80, faveColor: '#e30195', faveShape: 'triangle'} }
     ],
     edges: [
       { data: { source: '1', target: '2', faveColor: '#6FB1FC', strength: 95 } },
