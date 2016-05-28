@@ -47,24 +47,24 @@ $('#cy').cytoscape({
   
   elements: {
     nodes: [
-      { data: { id: 'j', name: 'Jerry', weight: 65, faveColor: '#6FB1FC', faveShape: 'triangle' } },
-      { data: { id: 'e', name: 'Elaine', weight: 45, faveColor: '#EDA1ED', faveShape: 'ellipse' } },
-      { data: { id: 'k', name: 'Kramer', weight: 75, faveColor: '#86B342', faveShape: 'octagon' } },
-      { data: { id: 'g', name: 'George', weight: 70, faveColor: '#F5A45D', faveShape: 'rectangle' } }
+      { data: { id: '1', name: 'STATUS: Alert All Crews, Action Stations!', weight: 80, faveColor: '#6FB1FC', faveShape: 'octagon' } },
+      { data: { id: '2', name: 'STATUS: Unknown Hull Breach Sections 7, 10, 18, 25', weight: 80, faveColor: '#6FB1FC', faveShape: 'octagon' } },
+      { data: { id: '3', name: 'STATUS: Casualty Numbers Coming In', weight: 80, faveColor: '#6FB1FC', faveShape: 'octagon' } },
+      { data: { id: '4', name: 'STATUS: 14 Bridge Crew, 30 Engineering, 480 Others', weight: 80, faveColor: '#6FB1FC', faveShape: 'octagon' } }
     ],
     edges: [
-      { data: { source: 'j', target: 'e', faveColor: '#6FB1FC', strength: 90 } },
-      { data: { source: 'j', target: 'k', faveColor: '#6FB1FC', strength: 70 } },
-      { data: { source: 'j', target: 'g', faveColor: '#6FB1FC', strength: 80 } },
+      { data: { source: '1', target: '2', faveColor: '#6FB1FC', strength: 75 } },
+      { data: { source: '2', target: '3', faveColor: '#6FB1FC', strength: 75 } },
+      { data: { source: '3', target: '4', faveColor: '#6FB1FC', strength: 75 } }
      
-      { data: { source: 'e', target: 'j', faveColor: '#EDA1ED', strength: 95 } },
-      { data: { source: 'e', target: 'k', faveColor: '#EDA1ED', strength: 60 }, classes: 'questionable' },
+      //{ data: { source: 'e', target: 'j', faveColor: '#EDA1ED', strength: 95 } },
+      //{ data: { source: 'e', target: 'k', faveColor: '#EDA1ED', strength: 60 }, classes: 'questionable' },
       
-      { data: { source: 'k', target: 'j', faveColor: '#86B342', strength: 100 } },
-      { data: { source: 'k', target: 'e', faveColor: '#86B342', strength: 100 } },
-      { data: { source: 'k', target: 'g', faveColor: '#86B342', strength: 100 } },
+      //{ data: { source: 'k', target: 'j', faveColor: '#86B342', strength: 100 } },
+      //{ data: { source: 'k', target: 'e', faveColor: '#86B342', strength: 100 } },
+      //{ data: { source: 'k', target: 'g', faveColor: '#86B342', strength: 100 } },
       
-      { data: { source: 'g', target: 'j', faveColor: '#F5A45D', strength: 90 } }
+      //{ data: { source: 'g', target: 'j', faveColor: '#F5A45D', strength: 90 } }
     ]
   },
   
