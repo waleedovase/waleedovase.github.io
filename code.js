@@ -10,7 +10,7 @@ $('#cy').cytoscape({
     .selector('node')
       .css({
         'shape': 'data(faveShape)',
-        'width': 'mapData(weight, 40, 80, 20, 60)',
+        'width': 'mapData(weight, 70, 90, 20, 60)',
         'content': 'data(name)',
         'text-valign': 'center',
         'text-outline-width': 2,
